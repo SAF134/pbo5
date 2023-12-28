@@ -9,7 +9,7 @@ def outputValue(val):
 
 
 def typo():
-    print('typo bang')
+    print('Tidak Valid')
 
 
 def inputMenuPriv():
@@ -89,7 +89,7 @@ def managerMenu(user, pin):
 
 
 def buyerMenu():
-    print('Welcome to mobel lejeng')
+    print('Welcome to Rusdi Airlines')
     buyer = Buyer(data['penerbangan'], data['armada'], data['rute'], tiket)
     # buyer.tiket = tiket
     menu = None
